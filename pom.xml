@@ -8,11 +8,11 @@
         <version>3.3.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.serviceregistry</groupId>
-    <artifactId>service-registry</artifactId>
+    <groupId>com.discovery-eureka-service</groupId>
+    <artifactId>discovery-eureka-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>service-registry</name>
-    <description>service-registry</description>
+    <name>discovery-eureka-service</name>
+    <description>discovery-eureka-service</description>
     <url/>
     <licenses>
         <license/>
